@@ -1,7 +1,7 @@
 {
-  "name": "BudgetQuest",
-  "short_name": "BudgetQuest",
-  "description": "Local-first Budget-App für Budgets, Buchungen und Sparziele.",
+  "name": "Budget Quest Testversion",
+  "short_name": "BQ Test",
+  "description": "Testversion der lokalen Budget-App für Budgets, Buchungen und Sparziele.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
